@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{9AC0359B-1D21-41BC-8551-B8C93D4CD839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaraunt.Booking", "Restaraunt.Booking\Restaraunt.Booking.csproj", "{06178FE5-FCDE-4AD9-9EB7-D4C78EC67E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Notification", "Restaurant.Notification\Restaurant.Notification.csproj", "{079982E2-C7F6-4D60-AAE6-958D362935D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC0359B-1D21-41BC-8551-B8C93D4CD839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC0359B-1D21-41BC-8551-B8C93D4CD839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC0359B-1D21-41BC-8551-B8C93D4CD839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC0359B-1D21-41BC-8551-B8C93D4CD839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06178FE5-FCDE-4AD9-9EB7-D4C78EC67E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06178FE5-FCDE-4AD9-9EB7-D4C78EC67E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06178FE5-FCDE-4AD9-9EB7-D4C78EC67E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06178FE5-FCDE-4AD9-9EB7-D4C78EC67E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{079982E2-C7F6-4D60-AAE6-958D362935D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079982E2-C7F6-4D60-AAE6-958D362935D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079982E2-C7F6-4D60-AAE6-958D362935D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079982E2-C7F6-4D60-AAE6-958D362935D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
