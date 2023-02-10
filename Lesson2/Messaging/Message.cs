@@ -4,7 +4,7 @@ namespace Messaging
     public static class Message
     {
         private static readonly Producer _producer =
-            new("BookingNotification", "localhost"); 
+            new("BookingNotificationFanout", "localhost"); 
        //private static readonly Consumer _consumer = 
        //     new("BookingNotification", "localhost");
 

@@ -14,7 +14,7 @@ namespace Restaurant.Notification
         public Worker()
         {
             //важно чтобы имя очереди совпадало
-            _consumer = new Consumer("BookingNotification", "localhost"); 
+            _consumer = new Consumer("BookingNotificationFanout", "localhost"); 
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
